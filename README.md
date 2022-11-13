@@ -2,11 +2,13 @@
 
 <h2>👨‍💻 Cyber Security & Cloud Projects:</h2>
 
-- <b> Tutorial: Active Directory Lab (AlgoExpert)</b>
+- <b> Tutorial: Active Directory Lab (Junior)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>AWS Security Project (EC2, S3, AWS RDBS, and AWS WAF)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-
+- <b>AWS Security SIEM Project (AWS GuardDuty,VPC Flow Logs, AWS CloudTrail, Amazon EKS)</b>
+  - [AWS SIEM Project #1](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Coming Soon)</b></i>
+- <b>AZURE Security SIEM Project (Setup SIEM Azure Sentinel)</b>
+  - [SIEM Project #2](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Coming Soon)</b></i>
+  
 <h2>Certifications</h2>
 
 - [Certified in Cybersecurity Specialization (ISC)²](https://coursera.org/share/da592c03f56eed7d0549bbd7701aace1)
