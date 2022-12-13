@@ -4,8 +4,8 @@
 
 - <b> Tutorial: Active Directory Lab (Junior)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>AWS Security SIEM Project (AWS GuardDuty,VPC Flow Logs, AWS CloudTrail, Amazon EKS)</b>
-  - [AWS SIEM Project #1](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Coming Soon)</b></i>
+- <b>Video on Demand on AWS Project (Amazon S3, AWS Lambada, AWS Elemental MediaConvert, AWS CloudFront,Amazon SNS)</b>
+  - [AWS VOD Project #1](https://github.com/mikehelvy/4chan-Image-Analysis-Middleware-C964) <b><i>(Coming Soon)</b></i>
 - <b>AZURE Security SIEM Project (Setup SIEM Azure Sentinel)</b>
   - [SIEM Project #2](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Coming Soon)</b></i>
   
