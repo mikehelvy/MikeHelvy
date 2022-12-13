@@ -13,7 +13,7 @@
 
 - [Certified in Cybersecurity Specialization (ISC)²](https://coursera.org/share/2adee8a7e860de1f26622f3071e13bbf)
 - [MITRE ATT&CK DefenderTM (MAD) ATT&CK® Fundamentals Badge Training] 
-- [AWS Cloud Practitioner in progress]
+- [AWS Cloud Practitioner](https://www.credly.com/badges/6f55e7bf-b9a8-4c9e-9200-f8826843159f/public_url)
 
 <h2>📺 Popular YouTube Videos</h2>
 
