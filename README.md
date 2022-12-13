@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mike! <br/><a href="https://github.com/joshmadakor1">Cloud Practitioner</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>
+<h1>Hi, I'm Mike! <br/><a href="https://github.com/MikeHelvy">Cloud Practitioner</a>, <a href="https://www.linkedin.com/in/helvy/">Cybersecurity Professional</a>,& <a href="https://www.linkedin.com/in/helvy/">Cloud BackEnd Engineer</a>
 
 <h2>👨‍💻 Cyber Security & Cloud Projects:</h2>
 
@@ -11,24 +11,22 @@
   
 <h2>Certifications</h2>
 
+- [AWS Cloud Practitioner](https://www.credly.com/badges/6f55e7bf-b9a8-4c9e-9200-f8826843159f/public_url)
 - [Certified in Cybersecurity Specialization (ISC)²](https://coursera.org/share/2adee8a7e860de1f26622f3071e13bbf)
 - [MITRE ATT&CK DefenderTM (MAD) ATT&CK® Fundamentals Badge Training] 
-- [AWS Cloud Practitioner](https://www.credly.com/badges/6f55e7bf-b9a8-4c9e-9200-f8826843159f/public_url)
+- 
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com)
-- [Ransomware Demonstration (C#)](https://www.youtube.com)
+- [Coming Soon!!](https://www.youtube.com)
+- 
 
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="MikeHelvy | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Helvy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 
 [twitter]: https://twitter.com/
 [youtube]: https://www.youtube.com/c/
