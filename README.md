@@ -11,7 +11,7 @@
   
 <h2>Certifications</h2>
 
-- [Certified in Cybersecurity Specialization (ISC)²]([https://coursera.org/share/da592c03f56eed7d0549bbd7701aace1](https://www.coursera.org/account/accomplishments/specialization/G79CYR53HABN?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=s12n))
+- [Certified in Cybersecurity Specialization (ISC)²](https://coursera.org/share/2adee8a7e860de1f26622f3071e13bbf)
 - [MITRE ATT&CK DefenderTM (MAD) ATT&CK® Fundamentals Badge Training] 
 - [AWS Cloud Practitioner in progress]
 
