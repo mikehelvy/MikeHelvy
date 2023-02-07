@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mike! <br/><a href="https://github.com/MikeHelvy">Cloud Security Specialist</a> <a href="https://www.linkedin.com/in/helvy/"> </a> <a href="https://www.linkedin.com/in/helvy/"></a>
+<h1>Hi, I'm Mike! <br/><a href="https://github.com/MikeHelvy">IT Security Specialist</a> <a href="https://www.linkedin.com/in/helvy/"> </a> <a href="https://www.linkedin.com/in/helvy/"></a>
 
 <h2>👨‍💻 Cyber Security & Cloud Projects:</h2>
 
