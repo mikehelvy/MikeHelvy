@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mike! <br/><a href="https://github.com/MikeHelvy">Cloud Practitioner</a>, <a href="https://www.linkedin.com/in/helvy/">Cybersecurity Professional</a>,& <a href="https://www.linkedin.com/in/helvy/">Cloud BackEnd Engineer</a>
+<h1>Hi, I'm Mike! <br/><a href="https://github.com/MikeHelvy">Cloud Security Specialist</a>, <a href="https://www.linkedin.com/in/helvy/"> </a>,& <a href="https://www.linkedin.com/in/helvy/"></a>
 
 <h2>👨‍💻 Cyber Security & Cloud Projects:</h2>
 
@@ -28,9 +28,8 @@
 [<img align="left" alt="Helvy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[twitter]: https://twitter.com/
+
 [youtube]: https://www.youtube.com/c/
-[instagram]: https://www.instagram.com/
 [linkedin]: https://linkedin.com/in/helvy
 
 <!--
