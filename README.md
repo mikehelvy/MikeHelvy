@@ -29,7 +29,7 @@
 
 
 
-[youtube]: https://www.youtube.com/c/
+[youtube]: https://www.youtube.com/c/ogunmuscle
 [linkedin]: https://linkedin.com/in/helvy
 
 <!--
