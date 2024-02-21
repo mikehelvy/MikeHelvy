@@ -1,6 +1,6 @@
-<h1>Hi, I'm Mike! <br/><a href="https://github.com/MikeHelvy">IT Security Specialist</a> <a href="https://www.linkedin.com/in/helvy/"> </a> <a href="https://www.linkedin.com/in/helvy/"></a>
+<h1>Hi, I'm Mike! <br/><a href="https://github.com/MikeHelvy">Python Developer</a> <a href="https://www.linkedin.com/in/helvy/"> </a> <a href="https://www.linkedin.com/in/helvy/"></a>
 
-<h2>👨‍💻 Cyber Security & Cloud Projects:</h2>
+<h2>👨‍💻 Python & Cloud Projects:</h2>
 
 - <b> Tutorial: Active Directory Lab (Junior)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
