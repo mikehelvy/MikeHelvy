@@ -1,13 +1,14 @@
-<h1>Hi, I'm Mike! <br/><a href="https://github.com/MikeHelvy">Python Developer</a> <a href="https://www.linkedin.com/in/helvy/"> </a> <a href="https://www.linkedin.com/in/helvy/"></a>
+<h1>Hi, I'm Mike! <br/><a href="https://github.com/MikeHelvy">Data Analyst</a> <a href="https://www.linkedin.com/> </a> <a href="https://www.linkedin.com/in/helvy/"></a>
 
-<h2>👨‍💻 Python & Cloud Projects:</h2>
+<h2>👨‍💻 Coming Soon...Projects:</h2>
 
-- <b> Tutorial: Active Directory Lab (Junior)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Video on Demand on AWS Project (Amazon S3, AWS Lambada, AWS Elemental MediaConvert, AWS CloudFront,Amazon SNS)</b>
-  - [AWS VOD Project #1](https://github.com/mikehelvy/4chan-Image-Analysis-Middleware-C964) <b><i>(Coming Soon)</b></i>
-- <b>AZURE Security SIEM Project (Setup SIEM Azure Sentinel)</b>
-  - [SIEM Project #2](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Coming Soon)</b></i>
+- <b> PROJECT #1 HOLDLER </b>
+  - [Praciting DS & Algos in Python](https://github.com/)
+- <b>PROJECT #2 HOLDLER</b>
+  - [AWS VOD Project #1](https://github.com/) <b><i>(Coming Soon)</b></i>
+- <b>PROJECT #3 </b>
+-  HOLDLER Security SIEM Project (Setup SIEM Azure Sentinel)</b>
+  - [SIEM Project #2](https://github.com/) <b><i>(Coming Soon)</b></i>
   
 <h2>Certifications</h2>
 
